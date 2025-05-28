@@ -22,3 +22,6 @@ Made with love for science, design, and education 💡
 
 ## Download Link:
 <a href = 'https://drive.google.com/file/d/1CP2pFn23ESUnAiZuunBIeHeUh2KEQBdT/view?usp=drive_link'> ChemVision AR </a> (Testing Version)
+
+## Link Marker:
+<a href="https://docs.google.com/document/d/1iQOaTwm5ejyWo0AHuFvrOPtNHSXxH9Qzf01RLWSPJHI/edit?usp=drivesdk">ChemVision Marker Docs</a>
